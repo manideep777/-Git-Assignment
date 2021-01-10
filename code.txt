@@ -1,2 +1,3 @@
 this is first commit from master branch
 this is feature1
+this is feature2
